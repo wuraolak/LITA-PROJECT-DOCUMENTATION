@@ -3,7 +3,7 @@
 ### Project Title: 
 
 ### Project Overview
-
+---
 ### Data Sources
 
 ### Tools Used
@@ -19,4 +19,11 @@
   ### Data Cleaning and Preparations
 
   ### Exploratory Data Analysis
+
+  ### Data Analysis
+
+  ``` SQL
+  SELECT * FROM TABLE 1
+  WHERE CONDITION = TRUE
+  ```
   
